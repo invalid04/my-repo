@@ -1,9 +1,9 @@
-
+import { Nav } from "./Nav"
 
 function App() {
   return (
     <>
-      <h1>Little Lemon</h1>
+      <Nav />
     </>
   );
 }
